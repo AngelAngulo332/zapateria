@@ -6,7 +6,7 @@
 |---|---|
 | Estudiante | Angel Angulo |
 | Asignatura | Desarrollo de aplicaciones con bases de datos |
-| Docente | ____________________ |
+| Docente | Eduardo Pimienta |
 | Fecha | 17 de noviembre de 2026 |
 | Lenguaje de programación | Python |
 | ORM utilizado | SQLAlchemy |
