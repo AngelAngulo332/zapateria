@@ -64,7 +64,7 @@ Tener instalado Python 3.8 o superior (se probó con Python 3.13) y `pip`. No ha
 Clonar el repositorio, entrar a la carpeta e instalar las dependencias (opcionalmente dentro de un entorno virtual):
 
 ```bash
-git clone <URL-DEL-REPOSITORIO>
+git clone <https://github.com/AngelAngulo332/zapateria>
 cd parcial-3-inventario-calzado
 python -m pip install -r requirements.txt
 ```
